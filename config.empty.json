@@ -1,0 +1,6 @@
+{
+    "guildId":"put server id here",
+    "channelId":"put the channel id here",
+    "token":"bot token here",
+    "delay":0
+}

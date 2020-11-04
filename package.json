@@ -1,0 +1,26 @@
+{
+  "name": "autodelete-discord-bot",
+  "version": "1.0.0",
+  "description": "autodelete everything in a given discord channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normanlol/autodelete-discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "discordjs"
+  ],
+  "author": "n0rmancodes",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/normanlol/autodelete-discord-bot/issues"
+  },
+  "homepage": "https://github.com/normanlol/autodelete-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
